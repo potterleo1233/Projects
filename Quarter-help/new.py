@@ -42,5 +42,6 @@ for line in Aline:
             line = [line[0],line[-1],line[3],line[1],line[2]]
         EndOfTheLine.append(line)
 
-for line in EndOfTheLine:
+'''for line in EndOfTheLine:
     csvwriter.writerow(line)
+'''
