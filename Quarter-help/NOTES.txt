@@ -1,0 +1,2 @@
+The bat file works. so far as to put things into a csv file. the new step should be to sort the csv file in powershell or python automagically. 
+goodnight. 
